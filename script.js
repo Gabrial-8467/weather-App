@@ -36,7 +36,7 @@ submit.addEventListener("click", (e) => {
 	getWeather(city.value)
 })
 
-getWeather("Delhi")
+getWeather("Ludhiana")
 
 const options1 = {
 	method: 'GET',
